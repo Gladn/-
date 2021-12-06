@@ -1,0 +1,23 @@
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.csproj.AssemblyReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\_5._Exception_Handling.Form1.resources
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.csproj.GenerateResource.cache
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.AssemblyInfoInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.AssemblyInfo.cs
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\5. Exception Handling.exe
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\5. Exception Handling.deps.json
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\5. Exception Handling.runtimeconfig.json
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\5. Exception Handling.runtimeconfig.dev.json
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\5. Exception Handling.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\5. Exception Handling.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.dll
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\5. Exception Handling.genruntimeconfig.cache
+C:\Users\gladk\OneDrive\Рабочий стол\Новая папка (3)\5. Exception Handling\5. Exception Handling\obj\Debug\netcoreapp3.1\_5._Exception_Handling.Form2.resources
