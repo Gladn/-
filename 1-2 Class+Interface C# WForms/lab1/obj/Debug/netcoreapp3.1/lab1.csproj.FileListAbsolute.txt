@@ -1,0 +1,63 @@
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.ResolveComReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\gladk\OneDrive\Рабочий стол\lab1\lab1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.ResolveComReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Class_interface.exe
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Class_interface.deps.json
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Class_interface.runtimeconfig.json
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Class_interface.runtimeconfig.dev.json
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Class_interface.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Class_interface.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.AssemblyReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.ResolveComReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.Form1.resources
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.GenerateResource.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\Class_interface.dll
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\Class_interface.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\1-2 Class+Interface C# WForms\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
