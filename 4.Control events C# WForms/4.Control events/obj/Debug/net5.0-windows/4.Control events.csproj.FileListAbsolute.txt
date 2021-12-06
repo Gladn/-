@@ -1,0 +1,19 @@
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\4.Control events.exe
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\4.Control events.deps.json
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\4.Control events.runtimeconfig.json
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\4.Control events.runtimeconfig.dev.json
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\4.Control events.dll
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\ref\4.Control events.dll
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\bin\Debug\net5.0-windows\4.Control events.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.csproj.AssemblyReference.cache
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\_4.Control_events.Form1.resources
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.csproj.GenerateResource.cache
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.AssemblyInfoInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.AssemblyInfo.cs
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.csproj.CoreCompileInputs.cache
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.dll
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\ref\4.Control events.dll
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.pdb
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\4.Control events.genruntimeconfig.cache
+C:\Users\gladk\OneDrive\Рабочий стол\4.Control events\4.Control events\obj\Debug\net5.0-windows\_4.Control_events.Form2.resources
